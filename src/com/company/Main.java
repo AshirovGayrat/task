@@ -15,12 +15,12 @@ public class Main {
         Task1.result(jadval);
 
 
-        // Task 2 /////////////////////
+        // Task 2 //////////////////////
         int n=5;
         Task2.variant2(n);
 
 
-        // Task 3 ////////////////////
+        // Task 3 //////////////////////
         String inputText="abcd";
         Task3.result(inputText);
 
